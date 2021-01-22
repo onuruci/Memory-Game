@@ -1,3 +1,14 @@
+#Memory-Game
+
+This project was made while following The Odin Project.
+In this game you are trying to touch each image only once.
+After each click it shuffles the images.
+If you click an image twice you lose the game.
+If you click all images only once you win.
+
+Live link : https://onuruci.github.io/Memory-Game/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
