@@ -1,4 +1,4 @@
-#Memory-Game
+# Memory-Game
 
 This project was made while following The Odin Project.
 In this game you are trying to touch each image only once.
