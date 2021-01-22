@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Memory-Game/static/css/main.6d0c32be.chunk.css",
+    "main.js": "/Memory-Game/static/js/main.0ad49579.chunk.js",
+    "main.js.map": "/Memory-Game/static/js/main.0ad49579.chunk.js.map",
+    "runtime-main.js": "/Memory-Game/static/js/runtime-main.87e2a1a3.js",
+    "runtime-main.js.map": "/Memory-Game/static/js/runtime-main.87e2a1a3.js.map",
+    "static/js/2.192a1846.chunk.js": "/Memory-Game/static/js/2.192a1846.chunk.js",
+    "static/js/2.192a1846.chunk.js.map": "/Memory-Game/static/js/2.192a1846.chunk.js.map",
+    "index.html": "/Memory-Game/index.html",
+    "static/css/main.6d0c32be.chunk.css.map": "/Memory-Game/static/css/main.6d0c32be.chunk.css.map",
+    "static/js/2.192a1846.chunk.js.LICENSE.txt": "/Memory-Game/static/js/2.192a1846.chunk.js.LICENSE.txt",
+    "static/media/dog1.6c3fc84d.jpg": "/Memory-Game/static/media/dog1.6c3fc84d.jpg",
+    "static/media/dog2.cd090e5c.jpg": "/Memory-Game/static/media/dog2.cd090e5c.jpg",
+    "static/media/dog3.02f30304.jpg": "/Memory-Game/static/media/dog3.02f30304.jpg",
+    "static/media/dog4.9f5f4395.jpg": "/Memory-Game/static/media/dog4.9f5f4395.jpg",
+    "static/media/dog5.fac77f1a.jpg": "/Memory-Game/static/media/dog5.fac77f1a.jpg",
+    "static/media/dog6.e13c881c.jpg": "/Memory-Game/static/media/dog6.e13c881c.jpg",
+    "static/media/dog7.f4a1b719.jpg": "/Memory-Game/static/media/dog7.f4a1b719.jpg",
+    "static/media/dog8.d1c7e358.jpg": "/Memory-Game/static/media/dog8.d1c7e358.jpg",
+    "static/media/dog9.69115113.jpg": "/Memory-Game/static/media/dog9.69115113.jpg",
+    "static/media/doggo_argentino.e997dc91.jpg": "/Memory-Game/static/media/doggo_argentino.e997dc91.jpg",
+    "static/media/lumi.c6dde863.jpg": "/Memory-Game/static/media/lumi.c6dde863.jpg",
+    "static/media/pitbull.95b88851.jpg": "/Memory-Game/static/media/pitbull.95b88851.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87e2a1a3.js",
+    "static/js/2.192a1846.chunk.js",
+    "static/css/main.6d0c32be.chunk.css",
+    "static/js/main.0ad49579.chunk.js"
+  ]
+}
